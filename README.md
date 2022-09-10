@@ -1,7 +1,11 @@
 ```json
 {
     "name": "Luiza",
-    "profession": "Developer",
+    "profession": "developer",
+    "languages": {
+        "native-language": "portuguese",
+        "second-language": "english"
+    },
     "interests": {
         "front-end": "40%",
         "back-end": "20%",
