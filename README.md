@@ -2,6 +2,7 @@
 {
     "name": "Luiza",
     "profession": "developer",
+    "fuel": "coffee",
     "languages": {
         "native-language": "portuguese",
         "second-language": "english"
