@@ -6,13 +6,6 @@
     "languages": {
         "native-language": "portuguese",
         "second-language": "english"
-    },
-    "interests": {
-        "front-end": "40%",
-        "back-end": "20%",
-        "mobile-development": "20%",
-        "data-science": "10%",
-        "others": "10%"
     }
 }
 ```
