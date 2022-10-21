@@ -1,10 +1,12 @@
-```json
-{
-    "name": "Luiza",
-    "profession": "developer",
-    "fuel": "coffee"
-}
-```
+
+<p align="center">
+    <img src="cake.jpeg" alt="my birthday cake" width="200"/>
+    <br/><br/>
+    :balloon: successfully updated to version 1.9 :balloon:
+    <br/>
+    october 21
+    <br/><br/>
+</p>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
